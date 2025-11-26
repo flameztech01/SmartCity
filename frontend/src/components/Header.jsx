@@ -13,7 +13,6 @@ const Header = () => {
     <div className={`header ${darkMode ? 'dark' : ''}`}>
       <div className="header-left">
         <div className="logo">
-          <FaCity className="logo-icon" />
           <span className="logo-text">SmartCity</span>
         </div>
       </div>
